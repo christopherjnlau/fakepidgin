@@ -3,3 +3,4 @@ function fakepidgin(data) {
 }
 
 console.log(fakepidgin(['would you like to eat?', 'no thank you.']));
+console.log(fakepidgin(['from which high school did you matriculate?']));
